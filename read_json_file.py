@@ -1,9 +1,8 @@
 ## Adding comment to worling branch version...
-## Adding another comment to commit this to the branch
-## Adding another comment to test the staing.....
+
 import json
 
-f = open("../JSON_File/T000801326_INV_RCPT.json", "r")
+f = open("TestFiles/T000801326_INV_RCPT.json", "r")
 file_line_counter = 0
 
 for json_line in f:
