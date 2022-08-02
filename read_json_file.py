@@ -1,8 +1,8 @@
-## Adding comment to worling branch version...
+## Adding comment to worling branch version... 
 
 import json
 
-f = open("TestFiles/T000801326_INV_RCPT.json", "r")
+f = open("json/TestFiles/T000801326_INV_RCPT.json", "r")
 file_line_counter = 0
 
 for json_line in f:
