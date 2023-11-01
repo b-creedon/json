@@ -1,8 +1,8 @@
-## Adding comment to worling branch version... 
+## Adding comment to working branch version... 
 
 import json
 
-f = open("json/TestFiles/T000801326_INV_RCPT.json", "r")
+f = open("/Users/bcreedon/DR_INTERNAL/MS_Visual_Studio/json/TestFiles/T000801326_INV_RCPT.json", "r")
 file_line_counter = 0
 
 for json_line in f:
